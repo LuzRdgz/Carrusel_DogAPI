@@ -8,6 +8,7 @@ import static java.lang.Thread.*;
 
 public class carrusel {
 
+    //Imagenes descargadas en el paquete images
     static Thread hilo = null;
     static String[] fileName = new String[18];
     public static JFrame frame = new JFrame();
